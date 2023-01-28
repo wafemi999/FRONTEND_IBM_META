@@ -1,6 +1,7 @@
 # FRONTEND_IBM_META
 Front end
-#1_Bosstrap
+##1_Bootstrap_Practice
+
 Tips
 Make sure to add your columns to row elements.
 
